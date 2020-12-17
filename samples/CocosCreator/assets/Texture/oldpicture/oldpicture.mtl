@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.Material",
+  "_name": "oldpicture",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "ad030e9a-5abd-4c4b-93e5-ab19c288ce8a"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {},
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}
